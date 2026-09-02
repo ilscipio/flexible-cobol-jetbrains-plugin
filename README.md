@@ -1,5 +1,5 @@
-# Flexible COBOL
-IDE support for IBM Enterprise COBOL and GnuCOBOL: a full native parser, copybook-aware navigation, a GnuCOBOL compile-run-debug toolchain, PIC-to-Java/JSON mapping, and an embedded MCP server for AI agents. Supports fixed and free source format with automatic detection, EXEC SQL/CICS blocks with SQL language injection, and per-project dialect settings for both IBM Enterprise COBOL and GnuCOBOL.
+# [Flexible COBOL](https://plugins.jetbrains.com/plugin/34037-flexible-cobol/)
+JetBrains IDE support for IBM Enterprise COBOL and GnuCOBOL: a full native parser, copybook-aware navigation, a GnuCOBOL compile-run-debug toolchain, PIC-to-Java/JSON mapping, and an embedded MCP server for AI agents. Supports fixed and free source format with automatic detection, EXEC SQL/CICS blocks with SQL language injection, and per-project dialect settings for both IBM Enterprise COBOL and GnuCOBOL.
 
 **Flexible COBOL is under active development. Please leave a review, open a GitHub issue, or drop us an email — your feedback shapes the roadmap.**
 
