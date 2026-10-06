@@ -5,6 +5,12 @@ JetBrains IDE support for IBM Enterprise COBOL and GnuCOBOL: a full native parse
 
 **Flexible COBOL is under active development. Please leave a review, open a GitHub issue, or drop us an email — your feedback shapes the roadmap.**
 
+## Videos
+
+- Promo: https://youtu.be/uddTLUR7UDA
+- Compile, run and debug: https://youtu.be/FvZ14OgAj_w
+- Legacy code: https://youtu.be/i2ZY976P2Zg
+
 ## Core Features
 
 ### Language Support
@@ -103,6 +109,14 @@ JetBrains IDE support for IBM Enterprise COBOL and GnuCOBOL: a full native parse
 
 Bug reports and feature requests are welcome as [issues](https://github.com/ilscipio/flexible-cobol-jetbrains-plugin/issues). Please read [CONTRIBUTING.md](CONTRIBUTING.md) first, in particular: do not post confidential code.
 
+## Free and discounted licenses
+
+Flexible COBOL takes part in the JetBrains Marketplace discount programs:
+
+- **Free** for students and teachers, classroom assistance, open source projects and the Developer Recognition Program
+- **50% off** for universities and educational organizations, startups and non-profit organizations
+- **40% off** for former student license holders
+
 ## License
 
-Flexible COBOL is proprietary software of ilscipio GmbH, licensed under the [ilscipio EULA for JetBrains plugins](https://www.ilscipio.com/en/end-user-license-agreement-eula-of-jetbrains-plugin/). It is free for students and open source projects. This repository holds no plugin source code: its documentation is licensed under [CC BY 4.0](LICENSE.DOC), and [LICENSE](LICENSE) and [CONTRIBUTING.md](CONTRIBUTING.md) explain the details.
+Flexible COBOL is proprietary software of ilscipio GmbH, licensed under the [ilscipio EULA for JetBrains plugins](https://www.ilscipio.com/en/end-user-license-agreement-eula-of-jetbrains-plugin/). This repository holds no plugin source code: its documentation is licensed under [CC BY 4.0](LICENSE.DOC), and [LICENSE](LICENSE) and [CONTRIBUTING.md](CONTRIBUTING.md) explain the details.
