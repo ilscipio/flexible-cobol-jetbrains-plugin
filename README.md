@@ -96,3 +96,13 @@ JetBrains IDE support for IBM Enterprise COBOL and GnuCOBOL: a full native parse
 * **COPY not resolving?** Add the copybook directory under Settings > Languages & Frameworks > COBOL > Copybook Paths
 * **`cobc` not found?** Verify GnuCOBOL is installed and on your system PATH, or set the path manually
 * **Formatter did nothing?** That's expected on fixed-format files — the formatter is a deliberate no-op there
+
+---
+
+## Contributing
+
+Bug reports and feature requests are welcome as [issues](https://github.com/ilscipio/flexible-cobol-jetbrains-plugin/issues). Please read [CONTRIBUTING.md](CONTRIBUTING.md) first, in particular: do not post confidential code.
+
+## License
+
+Flexible COBOL is proprietary software of ilscipio GmbH, licensed under the [ilscipio EULA for JetBrains plugins](https://www.ilscipio.com/en/end-user-license-agreement-eula-of-jetbrains-plugin/). It is free for students and open source projects. This repository holds no plugin source code: its documentation is licensed under [CC BY 4.0](LICENSE.DOC), and [LICENSE](LICENSE) and [CONTRIBUTING.md](CONTRIBUTING.md) explain the details.

@@ -1,0 +1,26 @@
+Flexible COBOL
+Copyright (c) 2026 ilscipio GmbH, Wiesbaden, Germany. All rights reserved.
+
+Flexible COBOL is proprietary software. It is not open source. Its use is
+governed by the ilscipio End User License Agreement (EULA) for JetBrains
+plugins:
+
+    https://www.ilscipio.com/en/end-user-license-agreement-eula-of-jetbrains-plugin/
+
+The plugin is distributed through the JetBrains Marketplace:
+
+    https://plugins.jetbrains.com/plugin/34037-flexible-cobol
+
+This repository does not contain the plugin's source code. It holds the
+public issue tracker and the documentation:
+
+  - The documentation (README.md and everything in the docs/ folder,
+    including its images and example code) is licensed under the Creative
+    Commons Attribution 4.0 International License (CC BY 4.0).
+    See LICENSE.DOC.
+
+  - What issues, comments and pull requests are licensed under is described
+    in CONTRIBUTING.md.
+
+The names "Flexible COBOL" and "ilscipio" and the ilscipio and Flexible
+COBOL logos are not licensed under CC BY 4.0.
